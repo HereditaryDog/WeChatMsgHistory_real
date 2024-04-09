@@ -14,7 +14,7 @@
 
 ### 微信启动
 
-- [API启动器来源](https://github.com/WeChatAPIs/wechatAPI)
+- [API启动器来源](https://wechatsdk.com)
 
 ### 启动程序
 
@@ -32,7 +32,7 @@ curl --location --request POST "http://127.0.0.1:18000/historyMsgData" ^
 ```
 ## 依赖 📦
 
-项目依赖于 [wechatAPI](https://github.com/WeChatAPIs/wechatAPI)。请确保安装所有必要的依赖。
+项目依赖于 [wechatAPI](https://wechatsdk.com)。请确保安装所有必要的依赖。
 
 
 ## 如何贡献 🤝
